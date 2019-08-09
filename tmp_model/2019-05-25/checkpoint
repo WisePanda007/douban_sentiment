@@ -1,0 +1,3 @@
+model_checkpoint_path: "my_douban_rnn_model.ckpt"
+all_model_checkpoint_paths: "..\\..\\model\\2019-05-25\\my_douban_rnn_model"
+all_model_checkpoint_paths: "my_douban_rnn_model.ckpt"
